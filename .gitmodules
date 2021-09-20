@@ -3,5 +3,5 @@
 	url = https://github.com/victoriadrake/hugo-theme-sam.git
 [submodule "public"]
 	path = public
-	url = git@github.com:jason-liu-cs/jliu.ca.git
+	url = git@github.com:jasopolis/jsliu.org.git
 	branch = master
